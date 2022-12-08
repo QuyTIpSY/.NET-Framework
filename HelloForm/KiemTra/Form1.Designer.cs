@@ -67,6 +67,7 @@
             this.lsvListFile.TabIndex = 8;
             this.lsvListFile.UseCompatibleStateImageBehavior = false;
             this.lsvListFile.View = System.Windows.Forms.View.Details;
+            this.lsvListFile.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lsvListFile_MouseDoubleClick_1);
             // 
             // columnHeader1
             // 

@@ -1,0 +1,17 @@
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\bin\Debug\net6.0-windows\FormMayTinh.exe
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\bin\Debug\net6.0-windows\FormMayTinh.deps.json
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\bin\Debug\net6.0-windows\FormMayTinh.runtimeconfig.json
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\bin\Debug\net6.0-windows\FormMayTinh.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\bin\Debug\net6.0-windows\FormMayTinh.pdb
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.csproj.AssemblyReference.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.Form1.resources
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.csproj.GenerateResource.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.AssemblyInfoInputs.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.AssemblyInfo.cs
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\refint\FormMayTinh.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.pdb
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\FormMayTinh.genruntimeconfig.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\FormMayTinh\obj\Debug\net6.0-windows\ref\FormMayTinh.dll

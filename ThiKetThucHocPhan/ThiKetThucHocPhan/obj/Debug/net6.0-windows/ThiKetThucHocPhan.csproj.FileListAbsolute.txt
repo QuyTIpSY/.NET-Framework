@@ -1,0 +1,17 @@
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\net6.0-windows\ThiKetThucHocPhan.exe
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\net6.0-windows\ThiKetThucHocPhan.deps.json
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\net6.0-windows\ThiKetThucHocPhan.runtimeconfig.json
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\net6.0-windows\ThiKetThucHocPhan.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\bin\Debug\net6.0-windows\ThiKetThucHocPhan.pdb
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.csproj.AssemblyReference.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.Form1.resources
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.csproj.GenerateResource.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.AssemblyInfoInputs.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.AssemblyInfo.cs
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.csproj.CoreCompileInputs.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\refint\ThiKetThucHocPhan.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.pdb
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ThiKetThucHocPhan.genruntimeconfig.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\ThiKetThucHocPhan\obj\Debug\net6.0-windows\ref\ThiKetThucHocPhan.dll

@@ -1,0 +1,16 @@
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\FrmMayTinh.csproj.AssemblyReference.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\FrmMayTinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\FrmMayTinh.csproj.GenerateResource.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\FrmMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\FrmMayTinh.csproj.CopyComplete
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tllsp\source\repos\ThiKetThucHocPhan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

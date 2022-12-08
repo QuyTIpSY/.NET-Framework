@@ -16,8 +16,6 @@ namespace KiemTra
         {
             InitializeComponent();
             cbbodia.Text = "Chọn ổ đĩa";
-            //NapDSODia();
-            //NapThuMuc();
         }
 
         public string? selectedDisk
@@ -111,14 +109,10 @@ namespace KiemTra
             //var images = lsvListFile.Items.Cast<ListViewItem>().Select(lvi => lvi.SubItems[1].Text);
             //ImagesSlide f = new ImagesSlide(images, soGiay, laplai, ngaunhien);
             //f.ShowDialog();
-
-
         }
 
         private void cbbodia_Click(object sender, EventArgs e)
         {
-            //NapDSODia();
-            //NapThuMuc();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -206,7 +200,14 @@ namespace KiemTra
         {
             var images = lsvListFile.Items.Cast<ListViewItem>().Select(lvi => lvi.SubItems[1].Text);
             ImagesSlide f = new ImagesSlide(images, soGiay, laplai, ngaunhien);
+            f.ShowDialog();
+        }
 
+        private void lsvListFile_MouseDoubleClick_1(object sender, MouseEventArgs e)
+        {
+            var selectedItem = lsvListFile.SelectedItems[0]; // lấy đường dẫn 
+            var imagePath = selectedItem.SubItems[1].Text; // lấy path 
+            ImageForm f = new ImageForm(imagePath);
             f.ShowDialog();
         }
     }
