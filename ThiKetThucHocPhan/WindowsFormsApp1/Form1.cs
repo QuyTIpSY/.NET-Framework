@@ -36,7 +36,7 @@ namespace WindowsFormsApp1
         {
             String text = ((Button)sender).Text;
             txtscreen.Text += text;
-            enablebtn();
+            //enablebtn();
         }
 
         private void tinhtoan()
@@ -46,11 +46,7 @@ namespace WindowsFormsApp1
                 list.Remove("+");
                 double s = Convert.ToDouble(list[0]) + Convert.ToDouble(list[1]);
                 txtscreen.Text = s.ToString();
-                // txtres.Text = s.ToString();
-                foreach(string tmp in list)
-                {
-                    txtres.Text = tmp;
-                }
+                txtres.Text = s.ToString(); 
                 AddData(s);
                 LoadData();
             }
@@ -182,6 +178,7 @@ namespace WindowsFormsApp1
         private void btnxoaall_Click(object sender, EventArgs e)
         {
             txtscreen.Text = "";
+            txtres.Text = "";
             list.Clear();
             enablebtn();
             txtscreen.Focus();
