@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MayTinhModelStoreContainer" CdmEntityContainer="MayTinhEntities">
+    <EntitySetMapping Name="KetQua">
+      <EntityTypeMapping TypeName="MayTinhModel.KetQua">
+        <MappingFragment StoreEntitySet="KetQua">
+          <ScalarProperty Name="LichSuTinhToan" ColumnName="LichSuTinhToan" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
