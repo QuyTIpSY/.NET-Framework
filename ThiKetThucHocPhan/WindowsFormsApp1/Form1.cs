@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
             {
                 list.Remove("+");
                 double s = Convert.ToDouble(list[0]) + Convert.ToDouble(list[1]);
-                txtscreen.Text = s.ToString();
+                //txtscreen.Text = s.ToString();
                 txtres.Text = s.ToString(); 
                 AddData(s);
                 LoadData();
@@ -56,7 +56,7 @@ namespace WindowsFormsApp1
                 {
                     list.Remove("-");
                     double s = Convert.ToDouble(list[0]) - Convert.ToDouble(list[1]);
-                    txtscreen.Text = s.ToString();
+                   // txtscreen.Text = s.ToString();
                     txtres.Text = s.ToString();
                     AddData(s);
                     LoadData();
@@ -67,7 +67,7 @@ namespace WindowsFormsApp1
                     {
                         list.Remove("x");
                         double s = Convert.ToDouble(list[0]) * Convert.ToDouble(list[1]);
-                        txtscreen.Text = s.ToString();
+                       // txtscreen.Text = s.ToString();
                         txtres.Text = s.ToString();
                         AddData(s);
                         LoadData();
@@ -78,7 +78,15 @@ namespace WindowsFormsApp1
                         {
                             list.Remove(":");
                             double s = Convert.ToDouble(list[0]) / Convert.ToDouble(list[1]);
-                            txtscreen.Text = s.ToString();
+                           // txtscreen.Text = s.ToString();
+                            txtres.Text = s.ToString();
+                            AddData(s);
+                            LoadData();
+                        }
+                        else
+                        {
+                            double s = Convert.ToDouble(list[0]);
+                          //  txtscreen.Text = s.ToString();
                             txtres.Text = s.ToString();
                             AddData(s);
                             LoadData();
@@ -129,6 +137,13 @@ namespace WindowsFormsApp1
                 txtscreen.Text = "";
                 disnablebtn();
             }
+            else
+            {
+                list.Add(txtres.Text);
+                list.Add(btncong.Text);
+                txtscreen.Text = "";
+                disnablebtn();
+            }
         }
 
         private void btnbang_Click(object sender, EventArgs e)
@@ -139,6 +154,7 @@ namespace WindowsFormsApp1
                 tinhtoan();
                 list.Clear();
                 enablebtn();
+                txtscreen.Text = "";
             }
         }
 
@@ -147,6 +163,13 @@ namespace WindowsFormsApp1
             if (txtscreen.Text != "")
             {
                 list.Add(txtscreen.Text);
+                list.Add(btntru.Text);
+                txtscreen.Text = "";
+                disnablebtn();
+            }
+            else
+            {
+                list.Add(txtres.Text);
                 list.Add(btntru.Text);
                 txtscreen.Text = "";
                 disnablebtn();
@@ -162,6 +185,13 @@ namespace WindowsFormsApp1
                 txtscreen.Text = "";
                 disnablebtn();
             }
+            else
+            {
+                list.Add(txtres.Text);
+                list.Add(btnnhan.Text);
+                txtscreen.Text = "";
+                disnablebtn();
+            }
         }
 
         private void btnchia_Click(object sender, EventArgs e)
@@ -169,6 +199,13 @@ namespace WindowsFormsApp1
             if (txtscreen.Text != "")
             {
                 list.Add(txtscreen.Text);
+                list.Add(btnchia.Text);
+                txtscreen.Text = "";
+                disnablebtn();
+            }
+            else
+            {
+                list.Add(txtres.Text);
                 list.Add(btnchia.Text);
                 txtscreen.Text = "";
                 disnablebtn();
